@@ -1,9 +1,6 @@
 # data-team-charles
 Charles interview
 
-# data-team-jared
-Jared Hesse Interview
-
 # Technical Exercise
 Fork this repo\
 Add functionality to the application as outlined below\
